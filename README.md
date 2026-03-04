@@ -3,12 +3,6 @@ Developed an interactive Power BI dashboard to analyze healthcare revenue, patie
 # Trich Healthcare Analytics
 ### Improving Revenue Visibility and Operational Insight Through Healthcare Data Intelligence
 
----
-
-## Dashboard Preview
-
-![Healthcare Dashboard](https://drive.google.com/uc?export=view&id=REPLACE_IMAGE_ID)
-
 
 ---
 

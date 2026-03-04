@@ -1,0 +1,2 @@
+# Enhancing-Healthcare-Revenue-Visibility-and-Operational-Decision-Making-Through-Power-BI-Analytics
+Developed an interactive Power BI dashboard to analyze healthcare revenue, patient activity, departmental performance, and insurance utilization. The solution provides actionable insights that help healthcare leaders monitor operations, identify revenue drivers, and support data-driven decision making.
